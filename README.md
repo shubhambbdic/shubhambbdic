@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Shubham Tiwari! I am a software engineer at Private Deal([privatedeal.com](https://privatedeal.com)), where I work on building and maintaining various systems and applications. In my free time, I enjoy learning about new technologies and exploring the outdoors through hiking and camping.
+Hi, I'm Shubham Tiwari! I am a software engineer at Private Deal ([www.privatedeal.com](https://privatedeal.com)), where I work on building and maintaining various systems and applications. In my free time, I enjoy learning about new technologies and exploring the outdoors through hiking and camping.
 
 # Experience
 
