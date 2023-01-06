@@ -5,7 +5,7 @@ Hi, I'm Shubham Tiwari! I am a software engineer at [Private Deal](https://priva
 # Experience
 
 - Software Engineer at Private Deal (2019-Present)
-  - Worked on building and maintaining various microservices using languages such as Java and Python
+  - Worked on building and maintaining various microservices using languages such as PHP and Vue.js
   - Implemented new features and performance optimizations, resulting in a 20% increase in overall system efficiency
 # Education
 
